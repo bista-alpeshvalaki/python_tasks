@@ -35,4 +35,3 @@ for key, value in students.items():
         total_marks[name] = value
 print(total_marks)
 
-#
